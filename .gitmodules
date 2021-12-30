@@ -1,0 +1,6 @@
+[submodule "lib/Mat"]
+	path = lib/Mat
+	url = https://git.coding.net/luojia/Mat.js.git
+[submodule "lib/setImmediate"]
+	path = lib/setImmediate
+	url = https://github.com/YuzuJS/setImmediate.git
